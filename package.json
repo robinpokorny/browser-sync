@@ -45,7 +45,7 @@
     "http-proxy": "1.14.0",
     "immutable": "3.8.1",
     "localtunnel": "1.8.1",
-    "micromatch": "2.3.11",
+    "micromatch": "4.0.8",
     "opn": "4.0.2",
     "portscanner": "^1.0.0",
     "qs": "6.2.1",
